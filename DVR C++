@@ -13,7 +13,7 @@ int costmat[6][6];
 int nodes, i, j, k;
 cout<<"\n\n Enter the number of nodes : ";
 cin>>nodes; //Enter the nodes
-cout<<"\n Enter the cost matrix: \n”;
+cout<<"\n Enter the cost matrix: \n”,";
 for (i = 0; i < nodes; i++)
 {
 for (j = 0; j < nodes; j++)
